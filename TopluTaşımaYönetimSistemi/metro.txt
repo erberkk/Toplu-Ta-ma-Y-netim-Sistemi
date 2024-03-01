@@ -1,0 +1,11 @@
+101 | M2 | Yunus Akar || Uskudar - Kucukyali - Bostanci - Bakirkoy || Uskudar | Bakirkoy | 11:00 | 12:20 | 13.5 TL
+102 | M1 | Kubra Kahraman || Uskudar - Kadikoy - Yildiz - Yenikapi || Uskudar | Yenikapi | 07:45 | 08:30 | 13.5 TL
+103 | M3 | Ezgi Bozdogan || Uskudar - Acibadem - Haciosman  - Yildiz || Uskudar | Yildiz | 14:10 | 14:50 | 13.5 TL
+105 | M6 | Mahur Bulut || Uskudar - Bostanci - Acibadem - Yildiz || Uskudar | Yildiz | 16:05 | 16:45 | 13.5 TL
+106 | M2 | Enes Hayaloglu || Uskudar - Kucukyali - Bostanci - Bakirkoy || Uskudar | Bakirkoy | 07:00 | 08:20 | 13.5 TL
+107 | M3 | Sezen Aksu || Uskudar - Acibadem - Haciosman  - Yildiz || Uskudar | Yildiz | 08:15 | 08:45 | 13.5 TL
+108 | M3 | Melike Aydogdu || Uskudar - Acibadem - Haciosman  - Yildiz || Uskudar | Yildiz | 11:50 | 12:20 | 13.5 TL
+109 | M1 | Yunus Akar || Uskudar - Kadikoy - Yildiz - Yenikapi || Uskudar | Yenikapi | 16:05 | 17:25 | 13.5 TL
+110 | M1 | Mahur Bulut || Uskudar - Kadikoy - Yildiz - Yenikapi || Uskudar | Yenikapi | 10:00 | 11:20 | 13.5 TL
+111 | M2 | Sezen Aksu || Uskudar - Kucukyali - Bostanci - Bakirkoy || Uskudar | Bakirkoy | 15:00 | 16:20 | 13.5 TL
+112 | M6 | Birkan Asci || Uskudar - Bostanci - Acibadem - Yildiz || Uskudar | Yildiz | 09:00 | 09:40 | 13.5 TL

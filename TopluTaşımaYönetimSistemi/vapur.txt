@@ -1,0 +1,11 @@
+401 | V1 | Ali Yilmaz || Kadikoy - Buyukada - Burgazada - Kinaliada || Kadikoy | Kinaliada | 09:05 | 10:00 | 20 TL
+402 | V2 | Semih Taskin || Kadikoy - Eminonu - Heybeliada - Burgazada || Kadikoy | Burgazada | 09:00 | 09:50 | 20 TL
+403 | V1 | Zehra Er || Kadikoy - Buyukada - Burgazada - Kinaliada || Kadikoy | Kinaliada | 13:25 | 14:20 | 20 TL
+404 | V3 | Osman Saygi || Kadikoy - Moda - Bostanci - Besiktas || Kadikoy | Bostanci | 18:00 | 18:55 | 20 TL
+405 | V2 | Yildiz Tilbe || Kadikoy - Eminonu - Heybeliada - Burgazada || Kadikoy | Burgazada | 15:00 | 16:10 | 20 TL
+406 | V1 | Osman Saygi || Kadikoy - Buyukada - Burgazada - Kinaliada || Kadikoy | Kinaliada | 11:00 | 11:55 | 20 TL
+407 | V1 | Ali Yilmaz || Kadikoy - Buyukada - Burgazada - Kinaliada || Kadikoy | Kinaliada | 14:30 | 15:25 | 20 TL
+408 | V2 | Semih Taskin || Kadikoy - Kabatas - Besiktas - Eminonu || Kadikoy | Eminonu | 10:20 | 11:15 | 20 TL
+409 | V2 | Zehra Er || Kadikoy - Eminonu - Heybeliada - Burgazada || Kadikoy | Burgazada | 16:05 | 17:25 | 20 TL
+410 | V3 | Yildiz Tilbe || Kadikoy - Moda - Bostanci - Besiktas || Kadikoy | Besiktas | 08:10 | 09:15 | 20 TL
+411 | V3 | Gokhan Ay || Kadikoy - Moda - Bostanci - Besiktas || Kadikoy | Besiktas | 12:00 | 12:55 | 20 TL

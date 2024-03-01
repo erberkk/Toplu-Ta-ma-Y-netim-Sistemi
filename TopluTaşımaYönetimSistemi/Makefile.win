@@ -1,0 +1,49 @@
+# Project: Proje1
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = ekran.o main.o tasit.o metro.o tramvay.o vapur.o otobus.o kullanici.o
+LINKOBJ  = ekran.o main.o tasit.o metro.o tramvay.o vapur.o otobus.o kullanici.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -g3
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = Proje1.exe
+CXXFLAGS = $(CXXINCS) -g3 -std=c++11
+CFLAGS   = $(INCS) -g3
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+ekran.o: ekran.cpp
+	$(CPP) -c ekran.cpp -o ekran.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+tasit.o: tasit.cpp
+	$(CPP) -c tasit.cpp -o tasit.o $(CXXFLAGS)
+
+metro.o: metro.cpp
+	$(CPP) -c metro.cpp -o metro.o $(CXXFLAGS)
+
+tramvay.o: tramvay.cpp
+	$(CPP) -c tramvay.cpp -o tramvay.o $(CXXFLAGS)
+
+vapur.o: vapur.cpp
+	$(CPP) -c vapur.cpp -o vapur.o $(CXXFLAGS)
+
+otobus.o: otobus.cpp
+	$(CPP) -c otobus.cpp -o otobus.o $(CXXFLAGS)
+
+kullanici.o: kullanici.cpp
+	$(CPP) -c kullanici.cpp -o kullanici.o $(CXXFLAGS)

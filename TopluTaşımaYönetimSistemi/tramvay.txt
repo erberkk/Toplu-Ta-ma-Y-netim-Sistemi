@@ -1,0 +1,11 @@
+201 | T1 | Helin Yavuz ||  Bagcilar - Fatih - Merter - Sariyer || Bagcilar | Sariyer | 14:05 | 14:50 | 17 TL
+202 | T2 | Gorkem Saglam || Bagcilar - Sariyer - Uskudar - Esenler || Bagcilar | Esenler | 21:30 | 22:10 | 17 TL
+203 | T3 | Bilal Balkan || Bagcilar - Beylikduzu - Sisli - Kartal || Bagcilar | Kartal | 08:30 | 09:50 | 17 TL
+204 | T3 | Sinem Yilmaz || Bagcilar - Beylikduzu - Sisli - Kartal || Bagcilar | Kartal | 10:00 | 11:20 | 17 TL
+205 | T4 | Bilal Balkan || Bagcilar - Esenler - Uskudar - Kartal || Bagcilar | Yesilyurt | 06:00 | 06:45 | 17 TL
+206 | T1 | Sinem Yilmaz || Bagcilar - Fatih - Merter - Sariyer || Bagcilar | Sariyer | 09:00 | 09:45 | 17 TL
+207 | T2 | Kaan Akpinar || Bagcilar - Sariyer - Uskudar - Esenler || Bagcilar | Esenler | 15:00 | 15:40 | 17 TL
+208 | T2 | Melike Aydogdu || Bagcilar - Sariyer - Uskudar - Esenler || Bagcilar | Esenler | 16:00 | 16:40 | 17 TL
+209 | T1 | Eslem Gunes ||  Bagcilar - Fatih - Merter - Sariyer || Bagcilar | Sariyer | 12:00 | 12:55 | 17 TL
+210 | T1 | Melike Sahin ||  Bagcilar - Fatih - Merter - Sariyer || Bagcilar | Sariyer | 23:00 | 23:55 | 17 TL
+211 | T3 | Helin Yavuz || Bagcilar - Beylikduzu - Sisli - Kartal || Bagcilar | Kartal | 16:05 | 17:25 | 17 TL

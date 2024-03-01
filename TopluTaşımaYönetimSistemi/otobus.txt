@@ -1,0 +1,11 @@
+301 | 16D | Akgun Gokalp || Kavacik - Suadiye - Erenkoy - Atasehir || Kavacik | Atasehir | 14:27 | 14:53 | 9 TL
+302 | 500T | Mirac Aydogdu || Kavacik - Bulgurlu - Nakkastepe - Icadiye || Kavacik | Icadiye | 07:10 | 08:25 | 9 TL
+303 | 500T | Ozlem Cakir || Kavacik - Bulgurlu - Nakkastepe - Icadiye || Kavacik | Icadiye | 15:00 | 16:15 | 9 TL
+304 | 16D | Can Ozan || Kavacik - Suadiye - Erenkoy - Atasehir || Kavacik | Atasehir | 09:21 | 10:02 | 9 TL
+305 | 14M | Erberk Akbulut || Kavacik - Cengelkoy  - Bulgurlu - Kadikoy || Kavacik | Kadikoy | 07:20 | 08:20 | 9 TL
+306 | 14M | Tugberk Akbulut || Kavacik - Cengelkoy  - Bulgurlu - Kadikoy || Kavacik | Kadikoy | 19:51 | 20:51 | 9 TL
+307 | 16F | Mira Beylice || Kavacik - Icadiye - Atasehir - Uskudar || Kavacik | Uskudar | 18:05 | 19:10 | 9 TL
+308 | 16D | Barkin Uslu || Kavacik - Suadiye - Erenkoy - Atasehir || Kavacik | Atasehir | 13:00 | 13:36 | 9 TL
+309 | 500T | Deniz Tekin ||Kavacik - Bulgurlu - Nakkastepe - Icadiye || Kavacik | Icadiye | 06:55 | 08:10 | 9 TL
+310 | 14M | Ezgi Bozdogan || Kavacik - Cengelkoy  - Bulgurlu - Kadikoy || Kavacik | Kadikoy | 20:30 | 21:30 | 9 TL
+311 | KM46 | Barkin Uslu || Kavacik - Erenkoy - Bulgurlu - Suadiye || Kavacik | Suadiye | 17:00 | 17:55 | 9 TL
